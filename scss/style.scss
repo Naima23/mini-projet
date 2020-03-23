@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(49, 61, 82);
+}
+
+.continer {
+    width: 400px;
+    height: 400px;
+    margin: 150px auto;
+
+    .box {
+        width: 120pX;
+        height: 120px;
+        background-color: rgba(214, 214, 214, 0.315);
+        margin: 5px;
+        font-size: 110px;
+        text-align: center;
+        color: honeydew;
+        font-family: sans-serif;
+        cursor: pointer;
+        float: left;
+        border-style: solid;
+        border-width: 1px;
+
+
+    }
+
+    .box:hover {
+        background-color: rgba(63, 63, 63, 0.507);
+       
+    }
+
+
+}

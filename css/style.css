@@ -5,6 +5,11 @@ body {
   width: 400px;
   height: 400px;
   margin: 150px auto; }
+  .continer h1 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: normal; }
   .continer .box {
     width: 120pX;
     height: 120px;
